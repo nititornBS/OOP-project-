@@ -1,0 +1,3 @@
+order iD1  Name :Thana  type :1 Member ID : 111526
+order iD2  Name :Somchai  type :2 Member ID : 526480
+order iD3  Name :Supansa  type :3 Member ID : 696359

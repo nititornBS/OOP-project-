@@ -1,0 +1,129 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "receiptshow",
+      "request": "launch",
+      "mainClass": "receiptshow",
+      "projectName": "project - Copy - Copy_80040166"
+    },
+    {
+      "type": "java",
+      "name": "registerPage",
+      "request": "launch",
+      "mainClass": "registerPage",
+      "projectName": "project - Copy - Copy_80040166"
+    },
+    {
+      "type": "java",
+      "name": "sleapshow",
+      "request": "launch",
+      "mainClass": "sleapshow",
+      "projectName": "project - Copy - Copy_80040166"
+    },
+    {
+      "type": "java",
+      "name": "receipt",
+      "request": "launch",
+      "mainClass": "receipt",
+      "projectName": "project - Copy - Copy_80040166"
+    },
+    {
+      "type": "java",
+      "name": "orderPage",
+      "request": "launch",
+      "mainClass": "orderPage",
+      "projectName": "project - Copy - Copy_80040166"
+    },
+    {
+      "type": "java",
+      "name": "list",
+      "request": "launch",
+      "mainClass": "list",
+      "projectName": "project - Copy - Copy_80040166"
+    },
+    {
+      "type": "java",
+      "name": "homePage",
+      "request": "launch",
+      "mainClass": "homePage",
+      "projectName": "project - Copy - Copy_80040166"
+    },
+    {
+      "type": "java",
+      "name": "sleapshow",
+      "request": "launch",
+      "mainClass": "sleapshow",
+      "projectName": "project - Copy_868c0422"
+    },
+    {
+      "type": "java",
+      "name": "homePage",
+      "request": "launch",
+      "mainClass": "homePage",
+      "projectName": "project - Copy_868c0422"
+    },
+    {
+      "type": "java",
+      "name": "list",
+      "request": "launch",
+      "mainClass": "list",
+      "projectName": "project - Copy_868c0422"
+    },
+    {
+      "type": "java",
+      "name": "list",
+      "request": "launch",
+      "mainClass": "list",
+      "projectName": "project_61775ce6"
+    },
+    {
+      "type": "java",
+      "name": "homePage",
+      "request": "launch",
+      "mainClass": "homePage",
+      "projectName": "project_61775ce6"
+    },
+    {
+      "type": "java",
+      "name": "registerPage",
+      "request": "launch",
+      "mainClass": "registerPage",
+      "projectName": "project_61775ce6"
+    },
+    {
+      "type": "java",
+      "name": "orderPage",
+      "request": "launch",
+      "mainClass": "orderPage",
+      "projectName": "project_61775ce6"
+    },
+    {
+      "type": "java",
+      "name": "sleap",
+      "request": "launch",
+      "mainClass": "sleap",
+      "projectName": "project_61775ce6"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Asus/Desktop/project",
+      "program": "c:/Users/Asus/Desktop/project/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
